@@ -1,0 +1,201 @@
+/* Your styles here */
+
+header {
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+body {
+    line-height: 1.65;
+    color: #393d41;
+    font-size: 1.2rem;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0, 0, ;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #25a2c3;
+    font-family: 'Montserrat (bold)', sans-serif;
+    line-height: 1;
+}
+
+h1,
+h3,
+h4,
+h5,
+h6 {
+    color: #25a2c3;
+    font-size: 3rem;
+    font-family: 'Montserrat (bold)', sans-serif;
+    line-height: 1;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+header img {
+    display: inline-block;
+    margin: 0 auto;
+    padding-bottom: 7%;
+    padding-top: 7%;
+    border-width: 0;
+}
+
+#corso_web_developer {
+    border-width: 0;
+    background-image: url("../images/banner.jpg");
+    background-position: center center;
+    background-size: cover;
+    text-align: center;
+}
+
+#corso_web_developer h1,
+p {
+    text-align: center;
+    margin: 0;
+    padding-top: 7%;
+}
+
+#corso_web_developer p {
+    text-align: center;
+    margin: 0;
+    padding-top: 4%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 9%;
+    font-weight: 500;
+}
+
+#corso_web_developer button {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 40px;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    padding-left: 8%;
+    padding-right: 8%;
+    background-color: #f04c2f;
+    color: white;
+    font-family: 'Montserrat (bold)', sans-serif;
+    font-weight: bold;
+    border: 2px #333;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+    font-size: larger;
+}
+
+#tutti_ti_cercheranno h2 {
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 0%;
+}
+
+#tutti_ti_cercheranno p {
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 5%;
+}
+
+#tutti_ti_cercheranno img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    border: none;
+    object-fit: cover;
+    margin-bottom: 2%;
+}
+
+#tutti_ti_cercheranno #ultimo_p {
+    margin-bottom: 10%;
+}
+
+#testimonianze {
+    background-color: #e22d0e;
+    background-size: 2px 2px;
+    background-image: radial-gradient(black 10%, transparent 10%);
+    margin-bottom: 12%;
+}
+
+#testimonianze h1 {
+    color: white;
+    text-align: center;
+    padding-top: 15%;
+}
+
+#testimonianze q {
+    color: white;
+    text-align: center;
+    padding-bottom: 2%;
+    display: inline-block;
+}
+
+#testimonianze p {
+    color: white;
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+
+#testimonianze #nome {
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 0%;
+}
+
+#benefici .container {
+    display: block;
+    border: 1px solid #dee1e3;
+    margin: 20px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+#benefici .container img {
+    width: 100%;
+    height: 60%;
+    display: block;
+    margin-top: 10;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#benefici div h2 {
+    text-align: center;
+    color: #25a2c3;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1;
+}
+
+#benefici div p {
+    margin-top: 0%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0%;
+    padding-bottom: 5%;
+    display: block;
+}
+
+#benefici #ultimo_div_benefici {
+    margin-bottom:20%;
+}
+
+footer {
+    background-color: #25a2c3;
+}
+
+footer div h2 {
+    color: white;
+    text-align: center;
+    padding-top: 20%;
+    padding-bottom: 10%;
+    font-weight: 800;
+
+}
