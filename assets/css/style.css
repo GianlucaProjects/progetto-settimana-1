@@ -184,18 +184,38 @@ p {
 }
 
 #benefici #ultimo_div_benefici {
-    margin-bottom:20%;
+    margin-bottom: 20%;
 }
 
 footer {
     background-color: #25a2c3;
 }
 
-footer div h2 {
+footer .centered-div {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+footer .centered-div h2 {
     color: white;
     text-align: center;
-    padding-top: 20%;
-    padding-bottom: 10%;
-    font-weight: 800;
-
+    font-size: 3rem;
+    padding-bottom: 6%;
 }
+
+footer .symbol {
+    text-align: center;
+    color: lightgrey;
+    margin-right: 5%;
+}
+
+footer #linea {
+    margin-top: 20%;
+    margin-bottom: 10%;
+}
+
+footer #crediti {
+    padding-bottom: 30%;
+    color: lightgray;
+}    
