@@ -74,12 +74,12 @@ p {
     font-weight: 500;
 }
 
-#corso_web_developer button {
+#corso_web_developer .button {
     position: relative;
     display: inline-block;
-    margin-bottom: 40px;
-    padding-top: 6%;
-    padding-bottom: 6%;
+    margin-bottom: 20px;
+    padding-top: 4%;
+    padding-bottom: 4%;
     padding-left: 8%;
     padding-right: 8%;
     background-color: #f04c2f;
